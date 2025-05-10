@@ -76,3 +76,16 @@ Baselines:
 - Centralized DRL without FRL.
 - Federated DRL without privacy protection.
 - Static scheduling policies. 
+
+
+## GuideLine
+### First week
+5.4-5.11 阅读相关文献，复习基础理论知识
+### Second week
+5.11-5.18 研究相关代码，构建基本框架
+### Third week
+5.18-5.25 完成初步代码
+### Fourth week
+5.25-6.02 代码优化，撰写报告
+### Final week
+6.02-6.06 报告优化，制作海报
